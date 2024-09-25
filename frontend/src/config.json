@@ -1,0 +1,5 @@
+{
+    "GUTHUB_URL_REGISTER": "https://fe0b-2409-4089-8608-4630-814e-223b-636b-2017.ngrok-free.app/frontend/signup",
+    "GUTHUB_URL_LOGIN": "https://fe0b-2409-4089-8608-4630-814e-223b-636b-2017.ngrok-free.app/frontend/login",
+    "GUTHUB_URL_DASHBOARD": "https://fe0b-2409-4089-8608-4630-814e-223b-636b-2017.ngrok-free.app/frontend/dashboard"
+}
